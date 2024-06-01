@@ -7,7 +7,7 @@ const SoundSection = () => {
               <div className='sound-section content'>
                   <h2 className='title'>New Sound System</h2>
                   <p className='text'>Teal the base.</p>
-                  <span className='description'>From $41.62/mo. or $999 before trade-in.</span>
+                  <span className='description'>From $41.62/mo. or $999 before trade-in</span>
                   <ul className='links'>
                       <li>
                           <button className='button'>Buy</button>
